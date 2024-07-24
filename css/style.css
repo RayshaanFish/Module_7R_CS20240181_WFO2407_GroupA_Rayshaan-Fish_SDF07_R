@@ -13,9 +13,9 @@
     --fw-reg: 300; /*  fw = font weight*/
     --fw-bold: 900;
     
-    --clr-light: #fefae0; /* clr = color */ 
-    --clr-dark: #606c38;
-    --clr-accent: #dda15e;
+    --clr-light: #F2F2F2; /* clr = color */ 
+    --clr-dark: #1E3A5F;
+    --clr-accent: #F28A30;
 
     
     /* --clr-light: #fefae0;
